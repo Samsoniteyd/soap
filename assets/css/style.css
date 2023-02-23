@@ -202,4 +202,34 @@ background: green;
 
 
   @media only screen and (max-width:520px){
+  
+
+     #pictures .pic img{
+    height: 50vh;
+    width: 60vw;
+    padding-left: 0rem;}
+
+    #pictures .pic .cont{
+    text-align: center;
+    padding-left: 0rem;
+  }
+
+#refill .work .container .write{
+    margin-left: 0rem;
+    /* border: 2px solid red;  */
+    line-height: .5rem;
+    margin-top: 3em;
+  }
+
+
+  #refill .work .container .col-md-6 button{
+    margin-left: 0rem;
+    margin-top: 1rem;
+
+  } 
+
+  #refill .work .container .row .col-md-6 img{
+    height: 40vh;
+  }
+
   }
